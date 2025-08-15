@@ -94,10 +94,6 @@ This setting demonstrates how automatic database schema updates could be configu
    | `redis` | Caches sessions and enforces rate limits for fast responses |
    | `prometheus` | Collects runtime metrics from the server |
    | `grafana` | Displays dashboards built from Prometheus metrics |
-   | `ffmpeg-transcoder`* | Performs video/audio transcoding when required |
-
-   *Optional container for automated media conversions.*
-
 
 ---
 
